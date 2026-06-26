@@ -1,5 +1,6 @@
 .venv/
-data/
+data/*
+!data/.gitkeep
 data_grounded/
 data_labels.*
 testing.*

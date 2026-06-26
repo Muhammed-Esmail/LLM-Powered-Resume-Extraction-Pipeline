@@ -6,3 +6,6 @@ pytesseract
 dotenv
 requests
 tqdm
+pandas
+pydantic
+pydantic[email]
