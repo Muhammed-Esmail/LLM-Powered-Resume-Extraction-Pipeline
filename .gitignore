@@ -1,0 +1,6 @@
+.venv/
+data/
+data_grounded/
+data_labels.*
+testing.*
+.env

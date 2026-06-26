@@ -1,0 +1,8 @@
+pymupdf
+pytesseract
+ipykernel
+opencv-python
+pytesseract
+dotenv
+requests
+tqdm
